@@ -1,4 +1,4 @@
-# Fan-Controller-System
+# Temperature controlled Fan
 A temperature-controlled fan using ATmega16 microcontroller, in which the fan is automatically turned ON or OFF according to the temperature.
 
 ## The project is designed and implemented based on the layered architecture model 
