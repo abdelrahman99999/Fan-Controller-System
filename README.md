@@ -9,7 +9,7 @@ A temperature-controlled fan using ATmega16 microcontroller, in which the fan is
 
 ## Main Components
 - ATmege16 
-- 2*16 LCD
+- 4*16 LCD
 - LM35
 - DC Motor
 - L293D
